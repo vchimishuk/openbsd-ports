@@ -1,0 +1,5 @@
+@bin bin/sdcv
+@man man/man1/sdcv.1
+man/uk/
+man/uk/man1/
+@man man/uk/man1/sdcv.1
