@@ -1,0 +1,4 @@
+fand is a daemon for fan speed control depends on CPU temperature
+
+Copy /usr/local/share/examples/fand.conf example file into /etc to be
+able to use fand. Edit the file according to your needs.

@@ -1,0 +1,5 @@
+@rcscript ${RCDIR}/fand
+@man man/man1/fand.1
+@bin sbin/fand
+share/examples/fand/
+share/examples/fand/fand.conf
